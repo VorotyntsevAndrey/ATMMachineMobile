@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ATM">ATM Operations</string>
+    <string name="add_operation">Add operation</string>
+    <string name="save_operation">Save operation</string>
+    <string name="change_operation">Change operation</string>
+    <string name="info_of_the_operation">Info of the operation</string>
+    <string name="title">Operation info</string>
+    <string name="card_number">Card number</string>
+    <string name="user_account_login">User account login</string>
+</resources>
